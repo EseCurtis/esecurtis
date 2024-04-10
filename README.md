@@ -1,5 +1,5 @@
 <p align="left">Hi 👋, I'm Ese Curtis .A.</p>
-<h3 align="left"> Software Engineer, Building DIgital Products</h3>
+<h3 align="left"> Software Engineer, Building Digital Products</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esecurtis&label=Profile%20views&color=0f0aaa&style=flat" alt="esecurtis" /> </p>
 
